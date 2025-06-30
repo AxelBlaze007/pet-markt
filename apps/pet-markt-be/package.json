@@ -47,8 +47,7 @@
       }
     }
   },
-
-  "prisma":{
+  "prisma": {
     "seed": "npx ts-node ./prisma/seed.ts"
   },
   "dependencies": {
